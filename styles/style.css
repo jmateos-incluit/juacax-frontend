@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+.logo {
+  font-family: "Abel";
+  font-size: var(--my-css-var);
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.logo .juacax {
+  font-size: 60%;
+  text-transform: uppercase;
+}
+
+.logo .corchetes {
+  font-weight: bold;
+  color: #ffcc00;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+.msgErrorForm {
+  margin: 4px;
+  color: #d32f2f;
+}
+
+a {
+  cursor: pointer;
+}
